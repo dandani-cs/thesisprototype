@@ -2,7 +2,7 @@
 
 This repository contains prototype for the paper Enhancing CNN-based Face Mask Detection and Usage Classification using Capsule Networks.
 
-Capsule Network Code [reference] (https://google.com).
+Capsule Network Code [reference](https://google.com).
 
 The model has 4 classes
 1. Correctly Worn (face_with_mask)
