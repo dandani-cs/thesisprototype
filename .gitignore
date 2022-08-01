@@ -1,0 +1,7 @@
+models/
+Image_Results/
+build/
+models-20220801T030725Z-001.zip
+__pycache__/
+DFS-CapsNetMask.spec
+DFS-CapsNetMask.exe

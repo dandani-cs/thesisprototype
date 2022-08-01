@@ -1,0 +1,9 @@
+numpy
+tensorflow>=1.12.1
+opencv-python===4.5.3.56
+opencv-contrib-python
+keras
+matplotlib
+pillow
+pandas
+pyinstaller

@@ -353,7 +353,7 @@ def classify(path):
     )
     photo_lbl.image = tk_img
     photo_lbl.text = ""
-    class_lbl.configure(text = "CLASSIFIED")
+    class_lbl.configure(text = label)
 
 
 def uploadFile():
